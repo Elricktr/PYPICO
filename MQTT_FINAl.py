@@ -61,5 +61,4 @@ while (True):
  
 else:
        print ("Not connected")
-       miRed.active (False)
        mqtt_client.disconnect()
