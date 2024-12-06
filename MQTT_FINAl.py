@@ -1,6 +1,5 @@
 import network
 import time
-from math import sin
 from umqtt.simple import MQTTClient
 from machine import I2C, Pin
 from bmp280 import *
